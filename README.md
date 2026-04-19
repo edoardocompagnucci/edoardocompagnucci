@@ -2,7 +2,7 @@
 
 I'm a Gen AI Specialist with a constant drive to learn and a genuine 
 passion for technology and automation. I focus on prototyping, model 
-experimentation, and integrating AI into production environments — always 
+experimentation, and integrating AI into production environments; always 
 staying close to the research frontier and experimenting with the latest 
 tools and techniques in generative AI and computer vision.
 
@@ -30,4 +30,4 @@ feedback loops to move from experiment to scalable system
 - 📚 Keeping up with the latest ML research and applying it in practice
 
 ## Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/edoardo-compagnucci-778a88159/?skipRedirect=true))

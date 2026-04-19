@@ -1,5 +1,5 @@
 # Hi, I'm Edoardo 👋
-I'm a Gen AI Specialist with a constant drive to learn and a genuine 
+I'm a Gen AI Innovation Specialist with a constant drive to learn and a genuine 
 passion for technology and automation. I focus on prototyping, model 
 experimentation, and integrating AI into production environments; always 
 staying close to the research frontier and experimenting with the latest 

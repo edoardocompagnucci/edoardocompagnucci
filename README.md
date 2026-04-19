@@ -1,5 +1,4 @@
 # Hi, I'm Edoardo 👋
-
 I'm a Gen AI Specialist with a constant drive to learn and a genuine 
 passion for technology and automation. I focus on prototyping, model 
 experimentation, and integrating AI into production environments; always 
@@ -12,8 +11,7 @@ tools and techniques in generative AI and computer vision.
 - 🤖 Train custom models and LoRAs
 - 🔗 Bridge the gap between research output and practical production application
 - 👁️ Develop computer vision models and integrate AI into existing workflows
-- 🤝 Work closely with research and engineering teams, running iterative 
-feedback loops to move from experiment to scalable system
+- 🤝 Work closely with research and engineering teams, running iterative feedback loops to move from experiment to scalable system
 
 ## Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -24,10 +22,10 @@ feedback loops to move from experiment to scalable system
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## What I'm into
-- 🧠 Generative AI & diffusion models
+- 🧠 Generative AI
 - 👁️ Computer vision
 - ⚙️ AI automation and workflow integration
 - 📚 Keeping up with the latest ML research and applying it in practice
 
 ## Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/edoardo-compagnucci-778a88159/?skipRedirect=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoardo-compagnucci-778a88159/)
